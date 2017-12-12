@@ -5,7 +5,7 @@ project(fast_dct)
 
 file(GLOB_RECURSE SOURCES "source/*")
 
-add_executable( streamer
+add_executable( fast_dct
 	${SOURCES}
 )
 
