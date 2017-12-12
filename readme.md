@@ -11,6 +11,4 @@ This code is extracted transforms from above mentioned JEM.
 
 The same as for JEM.
 
-# Links
-
 [1]: https://jvet.hhi.fraunhofer.de
